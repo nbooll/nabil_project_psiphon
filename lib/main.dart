@@ -225,7 +225,7 @@ class MyApp extends StatelessWidget {
                             height: 10,
                             color: const Color.fromARGB(255, 26, 123, 156),
                           ),
-                          Container(
+                          SizedBox(
                             width: 190,
                             height: 35,
                             child: Row(
